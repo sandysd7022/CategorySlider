@@ -6,7 +6,6 @@
  */
 namespace SD\CategorySlider\Block;
 
-
 class CurrentCate extends \Magento\Framework\View\Element\Template
 {
         protected $_registry;
